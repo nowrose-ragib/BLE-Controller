@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Theme colors-->
+    <color name="primary_day">#FF0C82E0</color>
+    <color name="primary_night">#FF10B8ED</color>
+
+    <!--Common colors-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
